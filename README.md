@@ -3,7 +3,7 @@
 
 🚀 **AI & Systems Developer** | C++ | Python | Deep Learning | CUDA | Reinforcement Learning | Algorithmic Trading  
 📍 Delhi, India  
-📬 adityaviraj.korra@gmail.com  
+ 
 
 ---
 
