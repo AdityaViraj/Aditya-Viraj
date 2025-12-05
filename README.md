@@ -20,7 +20,7 @@ I’m currently building projects that combine **AI + HPC + Systems + Trading**.
 
 ---
 
-## 🔥 What I'm Working On (2025 Roadmap)
+## 🔥 What I'm Working On (2026 Roadmap)
 
 ### 📌 Strengthening Core Engineering  
 - Advanced **C++ & DSA**  
@@ -45,7 +45,7 @@ I’m currently building projects that combine **AI + HPC + Systems + Trading**.
 
 ---
 
-## 🚀 2025 Goals  
+## 🚀 2026 Goals  
 - Publish **10+ real projects**  
 - Build a strong **GitHub streak**  
 - Earn an **international internship**  
