@@ -1,126 +1,144 @@
+# 👋 Hi, I'm Aditya Viraj
 
-# 👋 Hi, I'm Aditya Viraj  
-
-🚀 **AI & Systems Developer** | C++ | Python | Deep Learning | CUDA | Reinforcement Learning | Algorithmic Trading  
+🚀 **AI & Systems Developer** | C++ | Python | ML | CUDA | HPC  
 📍 Delhi, India  
- 
 
 ---
 
-## 🧠 About Me  
-I'm a first-year Computer Science student passionate about:  
+## 🧠 About Me
 
-- **AI Systems & Deep Learning (PyTorch / TensorFlow)**  
-- **High-performance C++ development**  
-- **GPU Programming & CUDA (HPC path)**  
-- **Reinforcement Learning for robotics & decision systems**  
-- **Algorithmic Trading & financial ML models**  
+I’m a Computer Science undergraduate focused on building **high-performance AI systems** by combining:
 
-I’m currently building projects that combine **AI + HPC + Systems + Trading**.
+- Strong **computer science fundamentals**
+- **Mathematical foundations** for machine learning
+- **Systems-level engineering** in C++
+- Scalable **AI & deep learning pipelines**
 
----
-
-## 🔥 What I'm Working On (2026 Roadmap)
-
-### 📌 Strengthening Core Engineering  
-- Advanced **C++ & DSA**  
-- Clean OOP, memory management, multithreading  
-- Python for ML & automation  
-
-### 📌 AI + ML Projects  
-- Computer Vision (OpenCV, CNNs)  
-- Deep Learning experiments (PyTorch)  
-- RL agents (Gymnasium, custom environments)  
-- MLOps basics  
-
-### 📌 Systems & GPU Track  
-- CUDA fundamentals  
-- HPC workflow  
-- Training acceleration & parallelism  
-
-### 📌 Trading Research  
-- Build simulation environments  
-- Develop ML-driven signals  
-- Quant-style pipelines  
+My long-term goal is to work at the intersection of **AI + Systems + Performance**, and eventually build **deep-tech products** with global impact.
 
 ---
 
-## 🚀 2026 Goals  
-- Publish **10+ real projects**  
-- Build a strong **GitHub streak**  
-- Earn an **international internship**  
-- Become **internship-ready** in AI & Systems  
-- Contribute to open-source  
+## 🔧 Core Focus Areas
+
+### ⚙️ Systems & Engineering
+- Advanced C++ (memory, STL, performance-aware coding)
+- Data Structures & Algorithms
+- Linux-based development workflows
+
+### 🤖 AI & Machine Learning
+- Classical Machine Learning (from first principles)
+- Deep Learning with PyTorch
+- Computer Vision (OpenCV, CNNs)
+- Reinforcement Learning (early-stage exploration)
+
+### 🚀 High-Performance Computing (Path)
+- CUDA fundamentals (planned)
+- Parallel computation concepts
+- ML training acceleration (future work)
+
+### 📊 Quantitative & Simulation Systems
+- Algorithmic trading research (simulation-first)
+- Data pipelines & backtesting frameworks
+- ML-driven signal exploration
 
 ---
 
-## 🧰 Tech Stack  
-**Languages:**  
-- C++, Python  
+## 📂 Featured Repositories
 
-**AI / ML:**  
+### 🔭 Computer Vision Lab
+Hands-on computer vision experiments using OpenCV and PyTorch.
+
+➡️ https://github.com/AdityaViraj/Computer-Vision-Lab
+
+---
+
+### 🧵 DSA in C++
+Pattern-based Data Structures & Algorithms practice with clean, well-documented C++ code.
+
+➡️ https://github.com/AdityaViraj/DSA-in-CPP
+
+---
+
+### 🧠 Machine Learning Basics
+Classical ML algorithms implemented from scratch with mathematical intuition.
+
+➡️ https://github.com/AdityaViraj/Machine-Learning-Basics
+
+---
+
+### 🧠 Deep Learning Projects
+End-to-end deep learning experiments — from data to training pipelines.
+
+➡️ https://github.com/AdityaViraj/Deep-Learning-Projects
+
+---
+
+### ⚙️ Trading Bots Sandbox
+A research sandbox for algorithmic trading systems, backtesting, and simulations  
+*(Educational & experimental only — not financial advice)*
+
+➡️ https://github.com/AdityaViraj/Trading-Bots-Sandbox
+
+---
+
+## 📈 Current Roadmap (2025–2026)
+
+- Master **C++ + DSA** at systems level
+- Strengthen **math foundations** (linear algebra, probability, optimization)
+- Build **clean, well-documented ML projects**
+- Start **CUDA & parallel computing**
+- Publish **research-oriented projects**
+- Secure **international internships**
+- Contribute to **open-source**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- C++, Python
+
+**AI / ML**
 - PyTorch, OpenCV  
-- NumPy, Pandas  
-- Scikit-learn  
+- NumPy, Pandas, Scikit-learn  
 
-**Systems / GPU:**  
-- CUDA  
-- Linux environment  
+**Systems**
+- Linux
+- CUDA (learning path)
 
-**Tools:**  
-- Git & GitHub  
-- Jupyter Notebooks  
-- VSCode  
-
----
-
-## 📂 Featured Repositories  
-
-### 🔭 Computer Vision Lab  
-Small CV projects using OpenCV + PyTorch  
-➡️ https://github.com/AdityaViraj/Computer-Vision-Lab  
-
-### 🧵 DSA in C++  
-Core algorithms & data structures  
-➡️ https://github.com/AdityaViraj/DSA-in-CPP  
-
-### 🧠 Deep Learning Projects  
-CNNs, training notebooks, experiments  
-➡️ https://github.com/AdityaViraj/Deep-Learning-Projects  
-
-### ⚙️ Trading Bots Sandbox  
-Strategy research + signals  
-➡️ https://github.com/AdityaViraj/Trading-Bots-Sandbox  
+**Tools**
+- Git & GitHub
+- Jupyter Notebooks
+- VS Code
 
 ---
 
-## 📈 Stats  
-(Coming soon as contributions grow — daily commits planned)
+## 🌱 Philosophy
+
+> Consistency over hype.  
+> Depth over breadth.  
+> Foundations before scale.
+
+I document my learning publicly and focus on **clean engineering, clarity of thought, and long-term growth**.
 
 ---
 
-## 🌱 My Mission  
-I want to become one of the top engineers in:  
-🔥 **High-Performance AI (CUDA + DL + RL + Systems)**  
-🔥 **Advanced Trading Intelligence**  
-🔥 **Robotics-driven decision systems**
+## 🤝 Open to Collaborations
 
-Building consistently to reach that elite 0.01% level.
-
----
-
-## 🤝 Open to Collaborations  
-- AI research  
-- Trading models  
-- RL & robotics  
-- Open-source projects  
+- AI / ML research projects  
+- Systems & performance optimization  
+- Reinforcement learning environments  
+- Simulation-based research  
+- Open-source contributions  
 
 ---
 
-## 📫 Contact  
-- Email: **adityaviraj.korra@gmail.com**  
-- LinkedIn: *coming soon*  
+## 📫 Contact
+
+📧 Email: adityaviraj.korra@gmail.com  
+🔗 GitHub: https://github.com/AdityaViraj  
+🔗 LinkedIn: *(coming soon)*  
 
 ---
 
-*Thanks for visiting! More projects coming every week 🚀*
+⭐ Thanks for visiting — more projects and experiments coming soon.
